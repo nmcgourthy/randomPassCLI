@@ -1,0 +1,9 @@
+Prompt for length, special chars, numbers
+
+Spit out a random password
+
+prompt user if they use it and would like to save it (y/n)
+
+if they do have them name the password(what they use it for)
+
+this will have to hhave a hashing method saving to a txt file on machine

@@ -1,9 +1,2 @@
-Prompt for length, special chars, numbers
-
-Spit out a random password
-
-prompt user if they use it and would like to save it (y/n)
-
-if they do have them name the password(what they use it for)
-
-this will have to hhave a hashing method saving to a txt file on machine
+Password management CLI tool with a supabase database written with python APIs, use hashing for user authentication and encryption of passwords saved to database.
+SMS authentication to access password with twilio API
